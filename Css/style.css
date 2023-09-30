@@ -102,7 +102,7 @@ nav li a:hover{
 }
 #menu-icon{
   font-size: 30px;
-  color: #ffffff;
+  color: #000;
   z-index: 10001;
   cursor: pointer;
   display: none;
